@@ -25,7 +25,7 @@ nav {
 
 .intro {
     width: 100%;
-    background-image: url(../imgs/beach.jpg);
+    background-image: linear-gradient(#00000057,#00000057),url(../imgs/beach.jpg);
     background-size: cover;
     padding-bottom: 20px;
 }
